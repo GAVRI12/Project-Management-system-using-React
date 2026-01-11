@@ -60,3 +60,9 @@ http://localhost:3000
 
  Conclusion
 This project demonstrates the use of React functional components and state management using hooks to build a simple yet effective project management dashboard.
+
+
+Sample output:
+<img width="949" height="846" alt="image" src="https://github.com/user-attachments/assets/ebabcf4c-1609-4403-8fd4-855ee8c2c894" />
+
+
